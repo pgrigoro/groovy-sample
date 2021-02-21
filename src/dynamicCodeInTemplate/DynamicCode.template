@@ -1,7 +1,0 @@
-<% 
-stati def formatDate(date) {
-   new java.text.SimpleDateFormat("EEE, MMM d, ''yy").format(date)
-}
-%>
-
-The date today is <% print formatDate(date) %>
