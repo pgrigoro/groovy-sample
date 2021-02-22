@@ -10,7 +10,6 @@ html {
     body {
         p('Dear Norman')
         p('Thanks for subscribing our services.')
-        p('Baeldung')
     }
 }"""
 

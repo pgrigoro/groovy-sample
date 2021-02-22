@@ -1,5 +1,5 @@
-Dear "$name",
-So nice to meet you in <% out << (city == "New York" ? "The Big Apple" : city) %>.
+Dear $name,
+So nice to meet you in <% out << city %>.
 
 See you in ${month},
 ${signed}
