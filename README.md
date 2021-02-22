@@ -1,18 +1,32 @@
-"# groovy-sample"
 
-https://intellij-support.jetbrains.com/hc/en-us/community/posts/206224119-How-to-configure-new-Groovy-SDK
+Java 11:
+--------
+Install JDK from the following link:
+https://github.com/AdoptOpenJDK/openjdk11-binaries/releases/download/jdk-11.0.10%2B9/OpenJDK11U-jdk_x64_windows_hotspot_11.0.10_9.msi
+
+Set JAVA_HOME:
+In System variables, clicks New... button to add a new JAVA_HOME variable and point it to the JDK installed folder.
+
+Update PATH:
+In System variables, find PATH, clicks edit... button :
+In Windows 10, it will prompt you a dialog box, clicks on New button, and this %JAVA_HOME%\bin
+
+IntelliJ IDEA:
+--------------
+Install IntelliJ Community edition from the following link: 
+https://www.jetbrains.com/idea/download/#section=windows
 
 
----
-https://www.javatpoint.com/how-to-install-groovy-on-windows - groovy-3.0.7.msi
+Groovy:
+--------------
+Follow the steps from the following link:
+https://www.javatpoint.com/how-to-install-groovy-on-windows
+
+Download & install the groovy Windows installer groovy-3.0.7-installer:
+https://bintray.com/groovy/Distributions/Windows-Installer/groovy-3.0.7-installer#files
+
+
+Groovy in IntelliJ:
+-------------------
+Create a simple project (Hello World) in Intellij: 
 https://www.logicbig.com/tutorials/misc/groovy/intellij.html
-https://fullstacked.tumblr.com/post/75139786454/csv-to-xml-converter-using-groovy
-
-https://melix.github.io/blog/2007/08/01/replacing_velocity_with_groovy_jsmarty.html
-
-
-https://guides.micronaut.io/1.x/micronaut-guides/micronaut-security-session-groovy/guide/index.html
-
-
-https://www.programmersought.com/article/3227849664/
-
