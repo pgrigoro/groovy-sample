@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<customer id='100' code='CU-34534299'>
+    <firstname>Jane</firstname>
+    <lastname>Doe</lastname>
+    <phone>2105233552</phone>
+</customer>
