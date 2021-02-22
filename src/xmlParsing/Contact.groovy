@@ -1,4 +1,4 @@
-package xmlParsing.contacts
+package xmlParsing
 
 import groovy.text.SimpleTemplateEngine
 import groovy.xml.XmlParser
