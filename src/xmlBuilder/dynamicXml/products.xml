@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><products>
+  <day>22/02/2021</day>
+  <time>22:12:53</time>
+  <product>
+    <name>MINI CALLS</name>
+    <price>5€</price>
+    <description>100' προς όλους &amp; 200' προς What’s Up</description>
+  </product>
+  <product>
+    <name>MINI COMBO</name>
+    <price>5€</price>
+    <description>100' προς όλους &amp; 200' προς What’s Up &amp; 1 GB για πλοήγηση</description>
+  </product>
+  <product>
+    <name>COMBO</name>
+    <price>12€</price>
+    <description>300' προς όλους &amp; 300' προς What’s Up &amp; 300 SMS προς όλους &amp; 400 MB για πλοήγηση</description>
+  </product>
+  <product>
+    <name>COMBO MAX</name>
+    <price>12€</price>
+    <description>300' προς όλους &amp; 300' προς What’s Up &amp; 600 SMS προς όλους &amp; 800 MB για πλοήγηση</description>
+  </product>
+</products>
