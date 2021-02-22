@@ -1,6 +1,7 @@
 package xmlParsing.contacts
 
-import groovy.text.*
+import groovy.text.SimpleTemplateEngine
+import groovy.xml.XmlParser
 
 def parser = new XmlParser()
 def xml = parser.parse("contact.xml");
