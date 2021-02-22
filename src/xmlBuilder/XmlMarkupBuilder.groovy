@@ -10,7 +10,7 @@ xml.kml(xmlns: "http://www.opengis.net/kml/2.2") {
             name "New York"
             description "New York City"
             pont {
-                coordinates "- 74.006393, 40.714172, 0"
+                coordinates "-74.006393, 40.714172, 0"
             }
         }
     }
